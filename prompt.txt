@@ -1,0 +1,13 @@
+@contextScopeItemMention fix all 
+and a remove the logo in the hero section 
+add manager and Head Teacher'swords
+and add many motion in the hero section
+add about us section too add it to navbar too make sure it has best content and also SEO optimized content and add a section gallery add some stockphotos and also add different section in the gallery sections like tags 
+also add some stock photos some where 
+add more content in the infrastructure and academic section 
+Head Teacher: K P SMITHA
+Manager : Abdul Nasar Kollath 
+add thir phoyos to add stock photos now then we can change 
+add stock photos in every section exept hero section 
+remove Academic Year 2026–27
+make the rotating logo in the hero section static correctly positioned 
